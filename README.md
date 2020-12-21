@@ -1,2 +1,1 @@
-# all
-vse chto ne len
+# This is all
